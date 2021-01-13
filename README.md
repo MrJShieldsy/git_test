@@ -1,1 +1,1 @@
-This is Joshua's first git Projext!
+This is Joshua's first git Project!
